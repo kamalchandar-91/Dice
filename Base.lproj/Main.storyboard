@@ -44,7 +44,7 @@
                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="rollButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gNE-WF-MUv"/>
+                                    <action selector="randomInteger:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xFE-5S-TiQ"/>
                                 </connections>
                             </button>
                         </subviews>
